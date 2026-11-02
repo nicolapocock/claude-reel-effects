@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+reel-effects-work/
+reel-effects-demo/
+*.mp4
+*.mov
