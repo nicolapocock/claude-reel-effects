@@ -91,4 +91,4 @@ everything runs on your laptop, so your clip never gets uploaded anywhere.
 
 the cut-out is [rembg](https://github.com/danielgatis/rembg), the animation is [hyperframes](https://github.com/heygen-com/hyperframes) and [gsap](https://gsap.com), and the fonts are urbanist and space mono from google fonts. the wireframe font is excalifont from [excalidraw](https://excalidraw.com).
 
-MIT licence, so use it for your own reels or your clients'.
+free to use for your own reels and your clients' under the [polyform shield licence](LICENSE). you can change it and share it, you just can't sell it or turn it into a product that competes with mine.
